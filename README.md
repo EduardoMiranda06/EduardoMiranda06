@@ -47,11 +47,11 @@ Identificar amostras com comportamento mecânico anômalo e possíveis defeitos 
 ## 🧠 Tecnologias e Ferramentas
 
 <p align="left">
-  Python <br>
-  Pandas | NumPy <br>
-  Scikit-learn <br>
-  Matplotlib | Seaborn <br>
-  Git | GitHub
+- Python <br>
+- Pandas | NumPy <br>
+- Scikit-learn <br>
+- Matplotlib | Seaborn <br>
+- Git | GitHub
 </p>
 
 ---
