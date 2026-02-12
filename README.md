@@ -12,7 +12,7 @@
 
 ## 👨‍💻 Sobre mim
 
-Sou estudante de **Tecnólogo em Análise e Desenvolvimento de Sistemas (ADS)**, com foco em **ciência de dados, inteligência artificial e big data aplicados à indústria**.
+Sou estudante de **Tecnólogo em Análise e Desenvolvimento de Sistemas (ADS)**, na Faculdade de Tecnologia SENAI Roberto Mange, com foco em **ciência de dados, inteligência artificial e big data aplicados à indústria** .
 
 ---
 
