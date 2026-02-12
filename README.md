@@ -10,7 +10,7 @@
 
 ---
 
-## 🧑‍💻 Sobre mim
+## 👨‍💻 Sobre mim
 
 Sou estudante de **Tecnólogo em Análise e Desenvolvimento de Sistemas (ADS)**, com foco em **ciência de dados, inteligência artificial e big data aplicados à indústria**.
 
@@ -29,15 +29,15 @@ Sou estudante de **Tecnólogo em Análise e Desenvolvimento de Sistemas (ADS)**,
 
 ## 🔬 Projeto em Destaque
 
-### 🧪 Análise Experimental com Cilindros de PLA + IA
+### Análise Experimental com Cilindros de PLA + IA
 
 Projeto de iniciação científica baseado em dados experimentais reais de ensaios mecânicos, com foco em:
 
-- 📊 Análise exploratória de dados  
-- 📈 Visualizações estatísticas e correlação  
-- 📉 Regressão linear e análise de resíduos  
-- 🤖 Classificação supervisionada (SVM, Árvore de Decisão)  
-- 🚨 Detecção de anomalias com Isolation Forest  
+- Análise exploratória de dados  
+- Visualizações estatísticas e correlação  
+- Regressão linear e análise de resíduos  
+- Classificação supervisionada (SVM, Árvore de Decisão)  
+- Detecção de anomalias com Isolation Forest  
 
 🎯 **Objetivo:**  
 Identificar amostras com comportamento mecânico anômalo e possíveis defeitos internos não visíveis externamente, apoiando decisões de controle de qualidade.
@@ -47,11 +47,11 @@ Identificar amostras com comportamento mecânico anômalo e possíveis defeitos 
 ## 🧠 Tecnologias e Ferramentas
 
 <p align="left">
-  🐍 Python <br>
-  📦 Pandas | NumPy <br>
-  🤖 Scikit-learn <br>
-  📊 Matplotlib | Seaborn <br>
-  🌱 Git | GitHub
+  Python <br>
+  Pandas | NumPy <br>
+  Scikit-learn <br>
+  Matplotlib | Seaborn <br>
+  Git | GitHub
 </p>
 
 ---
@@ -69,7 +69,7 @@ Identificar amostras com comportamento mecânico anômalo e possíveis defeitos 
 ## 🌍 Idiomas
 
 - 🇧🇷 Português - nativo  
-- 🌎 Inglês - B1 - Cambridge 
+- 🇺🇸 Inglês - B1 - Cambridge 
 
 ---
 
@@ -85,7 +85,7 @@ Busco uma **oportunidade de estágio na área de dados**, onde eu possa:
 
 ## 📫 Contato
 
-🔗 GitHub - https://github.com/EduardoMiranda06  
+🔗 Email - edumirgenesis@gmail.com 
 🔗 LinkedIn - https://www.linkedin.com/in/eduardo-miranda-da-silva-863169225/) 
 
 ---
