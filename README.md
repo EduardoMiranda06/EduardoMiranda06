@@ -1,7 +1,7 @@
 <h1 align="center">👋 Olá, eu sou o Eduardo</h1>
 
 <p align="center">
-  🎓 Estudante de ADS • 📊 Ciência de Dados • 🤖 IA aplicada à indústria
+  🎓 Estudante de ADS 
 </p>
 
 <p align="center">
@@ -13,17 +13,6 @@
 ## 👨‍💻 Sobre mim
 
 Sou estudante de **Tecnólogo em Análise e Desenvolvimento de Sistemas (ADS)**, na Faculdade de Tecnologia SENAI Roberto Mange, com foco em **ciência de dados, inteligência artificial e big data aplicados à indústria** .
-
----
-
-## 🎯 Áreas de Interesse
-
-📌 Ciência de Dados  
-📌 Inteligência Artificial  
-📌 Machine Learning  
-📌 Big Data aplicado à indústria  
-📌 Análise de dados experimentais  
-📌 Engenharia orientada a dados  
 
 ---
 
@@ -56,30 +45,10 @@ Identificar amostras com comportamento mecânico anômalo e possíveis defeitos 
 
 ---
 
-## 📚 Em Aprendizado Contínuo
-
-- Data Science  
-- Big Data  
-- Machine Learning aplicado  
-- Modelagem estatística  
-- IA aplicada à engenharia  
-
----
-
 ## 🌍 Idiomas
 
 - 🇧🇷 Português - nativo  
 - 🇺🇸 Inglês - B1 - Cambridge 
-
----
-
-## 🚀 Objetivo Atual
-
-Busco uma **oportunidade de estágio na área de dados**, onde eu possa:
-
-- Trabalhar com dados reais  
-- Aplicar modelos de machine learning  
-- Evoluir tecnicamente e academicamente  
 
 ---
 
